@@ -21,7 +21,7 @@ html{
 }
 
 section{
-    padding: 2rem 9%;
+    padding: 11rem 9% 2rem 9%;
 }
 
 .heading{
@@ -31,7 +31,7 @@ section{
     padding: 1rem;
     margin: 2rem 0;
     background: rgba(16, 180, 71, 0.05)
-    padding-top: 90px;
+    
 }
 
 .heading span{
@@ -66,7 +66,7 @@ header{
     justify-content: space-between;
     z-index: 1000;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0,.1);
-    padding-top: 90px;
+    
 }
 
 header .logo{
@@ -523,7 +523,7 @@ header .fa-bars{
     }
 
     section{
-        padding: 2rem;
+        padding: 11rem 9% 2rem 9%;
     }
     
     .home{
