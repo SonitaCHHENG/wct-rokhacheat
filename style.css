@@ -66,6 +66,7 @@ header{
     justify-content: space-between;
     z-index: 1000;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0,.1);
+    padding-top: 90px;
 }
 
 header .logo{
