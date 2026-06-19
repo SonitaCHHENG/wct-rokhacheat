@@ -158,6 +158,7 @@ header .fa-bars{
 .about .row .content h3{
     font-size: 3rem;
     color: #333;
+    padding-top: 90px;
 }
 
 .about .row .content p{
@@ -281,6 +282,7 @@ header .fa-bars{
 .products .box-container .box .content h3{
     font-size: 2.5rem;
     color: #333;
+    padding-top: 90px;
 }
 
 .products .box-container .box .content .price{
@@ -350,6 +352,7 @@ header .fa-bars{
 .review .box-container .box .user h3{
     font-size: 2rem;
     color: #333;
+    padding-top: 90px;
 }
 
 .review .box-container .box .user span{
@@ -415,6 +418,7 @@ header .fa-bars{
     color: #333;
     font-size: 2.5rem;
     padding: 1rem 0;
+    padding-top: 90px;
 }
 
 .footer .box-container .box a{
@@ -481,6 +485,7 @@ header .fa-bars{
     padding: 1rem 2rem;
     text-align: center;
     mix-blend-mode: screen;
+    padding-top: 90px;
 }
 
 .about .row .content{
